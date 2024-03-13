@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">my-app</string>
+    <string name="sign_in">Autenticar</string>
+    <string name="sign_up">Registar</string>
+    <string name="sign_in_page">Login</string>
+    <string name="sign_in_google">Autenticação Google</string>
+    <string name="sign_up_page">Registo</string>
+    <string name="dashboard_page">Painel Inicial</string>
+    <string name="open_btn">Abrir</string>
+    <string name="close_btn">Fechar</string>
+</resources>

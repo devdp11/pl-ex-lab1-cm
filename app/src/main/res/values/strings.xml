@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">my-app</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in_page">Login Authentication</string>
+    <string name="sign_in_google">Google Authentication</string>
+    <string name="sign_up_page">Register Authentication</string>
+    <string name="dashboard_page">Dashboard</string>
+    <string name="open_btn">Open</string>
+    <string name="close_btn">Close</string>
+</resources>
